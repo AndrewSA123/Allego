@@ -1,0 +1,14 @@
+D:\Projects\Allego Tech Test\Allego Tech Test\bin\Debug\net8.0\Allego Tech Test.exe
+D:\Projects\Allego Tech Test\Allego Tech Test\bin\Debug\net8.0\Allego Tech Test.deps.json
+D:\Projects\Allego Tech Test\Allego Tech Test\bin\Debug\net8.0\Allego Tech Test.runtimeconfig.json
+D:\Projects\Allego Tech Test\Allego Tech Test\bin\Debug\net8.0\Allego Tech Test.dll
+D:\Projects\Allego Tech Test\Allego Tech Test\bin\Debug\net8.0\Allego Tech Test.pdb
+D:\Projects\Allego Tech Test\Allego Tech Test\obj\Debug\net8.0\Allego Tech Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Allego Tech Test\Allego Tech Test\obj\Debug\net8.0\Allego Tech Test.AssemblyInfoInputs.cache
+D:\Projects\Allego Tech Test\Allego Tech Test\obj\Debug\net8.0\Allego Tech Test.AssemblyInfo.cs
+D:\Projects\Allego Tech Test\Allego Tech Test\obj\Debug\net8.0\Allego Tech Test.csproj.CoreCompileInputs.cache
+D:\Projects\Allego Tech Test\Allego Tech Test\obj\Debug\net8.0\Allego Tech Test.dll
+D:\Projects\Allego Tech Test\Allego Tech Test\obj\Debug\net8.0\refint\Allego Tech Test.dll
+D:\Projects\Allego Tech Test\Allego Tech Test\obj\Debug\net8.0\Allego Tech Test.pdb
+D:\Projects\Allego Tech Test\Allego Tech Test\obj\Debug\net8.0\Allego Tech Test.genruntimeconfig.cache
+D:\Projects\Allego Tech Test\Allego Tech Test\obj\Debug\net8.0\ref\Allego Tech Test.dll
