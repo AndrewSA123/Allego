@@ -8,7 +8,7 @@
 
 # production
 /React app Allego/allego-tech-test/build
-
+.env
 # misc
 /React app Allego/allego-tech-test/.DS_Store
 /React app Allego/allego-tech-test/.env
