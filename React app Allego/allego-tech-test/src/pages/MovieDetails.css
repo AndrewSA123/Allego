@@ -1,0 +1,20 @@
+.Movie-Details-Container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.Movie-Details{
+    font-size: calc(10px + 1vmin);
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.Movie-Ratings{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-basis: 30%;
+}

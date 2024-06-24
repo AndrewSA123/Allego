@@ -1,23 +1,23 @@
 # dependencies
-/React app/allego-tech-test/node_modules
-/React app/allego-tech-test/.pnp
-/React app/allego-tech-test/.pnp.js
+/React app Allego/allego-tech-test/node_modules
+/React app Allego/allego-tech-test/.pnp
+/React app Allego/allego-tech-test/.pnp.js
 
 # testing
-/React app/allego-tech-test/coverage
+/React app Allego/allego-tech-test/coverage
 
 # production
-/React app/allego-tech-test/build
+/React app Allego/allego-tech-test/build
 
 # misc
-/React app/allego-tech-test/.DS_Store
-/React app/allego-tech-test/.env.local
-/React app/allego-tech-test/.env.development.local
-/React app/allego-tech-test/.env.test.local
-/React app/allego-tech-test/.env.production.local
+/React app Allego/allego-tech-test/.DS_Store
+/React app Allego/allego-tech-test/.env.local
+/React app Allego/allego-tech-test/.env.development.local
+/React app Allego/allego-tech-test/.env.test.local
+/React app Allego/allego-tech-test/.env.production.local
 
-/React app/allego-tech-test/npm-debug.log*
-/React app/allego-tech-test/yarn-debug.log*
-/React app/allego-tech-test/yarn-error.log*
+/React app Allego/allego-tech-test/npm-debug.log*
+/React app Allego/allego-tech-test/yarn-debug.log*
+/React app Allego/allego-tech-test/yarn-error.log*
 /Allego Tech Test/.vs
 /Allego Fake API
